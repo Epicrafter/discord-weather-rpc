@@ -16,6 +16,7 @@
 2. If you haven't got an account yet, sign up then login
 3. When you have reached [this URL](https://www.visualcrossing.com/weather/weather-data-services#/editDataDefinition), click on **Weather API**
 4. You will find your **API key** in the **Additional Parameters** section, copy it and store it somewhere safe
+<br>
 Note: If you are using the free plan, your are limited to 1000 requests per day
 
 # Setup
