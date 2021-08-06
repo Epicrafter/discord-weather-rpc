@@ -22,6 +22,13 @@
 2. Open the `settings.json` file either on Notepad or a code editor
 3. Paste in your **APPLICATION ID** and **API key** in the correct gaps
 4. Fill in the location field (e.g. Paris) and choose the unit you want to use (metric/us)
+3. Save the file
+
+# Setting up the Icons
+1. Go to your [Discord Developers site](https://discord.com/developers/applications) and select your application
+2. Go to the **Rich Presence** section
+3. Click on **Add Images**, navigate to the **Images** folder located in this folder and select all the images
+4. Save the changesS
 
 # How to get Weather RPC running
 1. Open the `setup.bat` file and follow the instructions 
