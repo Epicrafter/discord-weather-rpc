@@ -28,7 +28,7 @@
 1. Go to your [Discord Developers site](https://discord.com/developers/applications) and select your application
 2. Go to the **Rich Presence** section
 3. Click on **Add Images**, navigate to the **Images** folder located in this folder and select all the images
-4. Save the changesS
+4. Save the changes
 
 # How to get Weather RPC running
 1. Open the `setup.bat` file and follow the instructions 
