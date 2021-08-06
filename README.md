@@ -3,7 +3,7 @@
 # Requirements
 1. [Node.JS](https://nodejs.org/en/) installed on your machine
 2. A Code Editor such as VSCode, Atom etc
-3. A Discord Rich Presence ([How to register a Discord Rich Presence Application?](#Create-a-Discord-Application))
+3. A Discord Rich Presence Application ([How to register a Discord Rich Presence Application?](#Create-a-Discord-Application))
 4. A **Visual Crossing** API key ([How to get one?](#Getting-a-Visual-Crossing-key))
 
 # Create-a-Discord-Application
